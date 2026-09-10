@@ -1,0 +1,6 @@
+service_id,machines_serviced,service_date,service_type,parts_replaced,provider,observations
+1,"CNC-001,CNC-002,CNC-004",2026-01-15,preventive,"spindle oil change, bearing inspection",ThirdParty Maintenance Inc.,All systems normal
+2,"IMM-001,IMM-002,IMM-003",2026-01-20,preventive,"hydraulic filter replacement, seal inspection",ThirdParty Maintenance Inc.,Pressure slightly elevated on IMM-002
+3,"CNC-007,CNC-009",2026-02-10,preventive,"spindle maintenance, bearings",ThirdParty Maintenance Inc.,CNC-009 cooling system adequate
+4,"ASM-001,ASM-002",2026-02-25,preventive,"joint inspection, cable check",ThirdParty Maintenance Inc.,All normal
+5,All machines,2026-03-15,audit,Annual compliance inspection,ThirdParty Maintenance Inc.,3 machines flagged for monitoring

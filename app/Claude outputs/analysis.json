@@ -1,0 +1,93 @@
+{
+  "generated_at": "2026-09-10T11:30:23.869940",
+  "version": "1.0",
+  "status": "success",
+  "summary": {
+    "total_downtime_hours": 0.0,
+    "incident_count": 20,
+    "maintenance_count": 15856,
+    "avg_downtime_per_incident": 0.0,
+    "total_machines": 11,
+    "machines_with_telemetry": 8,
+    "machines_without_telemetry": 3
+  },
+  "candidate_factors": [
+    {
+      "factor_id": "FAC-pressure",
+      "factor_name": "Anomaly in pressure",
+      "field_name": "pressure",
+      "observed_in_failures": 21,
+      "total_failures": 20,
+      "frequency_percent": 105.0,
+      "confidence_level": "Strong",
+      "evidence": [
+        {
+          "timestamp": "2026-01-15T00:12:30",
+          "machine_id": "IMM-001",
+          "field": "pressure",
+          "value": 150.5,
+          "severity": "alert",
+          "threshold": 150.0
+        },
+        {
+          "timestamp": "2026-01-15T00:17:05",
+          "machine_id": "IMM-001",
+          "field": "pressure",
+          "value": 150.0,
+          "severity": "alert",
+          "threshold": 150.0
+        },
+        {
+          "timestamp": "2026-01-15T00:22:17.500000",
+          "machine_id": "IMM-001",
+          "field": "pressure",
+          "value": 150.8,
+          "severity": "alert",
+          "threshold": 150.0
+        }
+      ]
+    },
+    {
+      "factor_id": "FAC-spindle_temperature",
+      "factor_name": "Anomaly in spindle_temperature",
+      "field_name": "spindle_temperature",
+      "observed_in_failures": 9,
+      "total_failures": 20,
+      "frequency_percent": 45.0,
+      "confidence_level": "Moderate",
+      "evidence": [
+        {
+          "timestamp": "2026-01-21T05:00:00",
+          "machine_id": "CNC-004",
+          "field": "spindle_temperature",
+          "value": 94.8,
+          "severity": "alert",
+          "threshold": 90.0
+        },
+        {
+          "timestamp": "2026-01-23T07:00:00",
+          "machine_id": "CNC-007",
+          "field": "spindle_temperature",
+          "value": 90.2,
+          "severity": "alert",
+          "threshold": 90.0
+        },
+        {
+          "timestamp": "2026-01-29T13:00:00",
+          "machine_id": "CNC-004",
+          "field": "spindle_temperature",
+          "value": 94.8,
+          "severity": "alert",
+          "threshold": 90.0
+        }
+      ]
+    }
+  ],
+  "data_quality": [],
+  "failures_identified": 20,
+  "limitations": [
+    "Correlation analysis only - no causal proof",
+    "Synthetic sample data for demonstration",
+    "Deterministic analysis without ML models"
+  ]
+}

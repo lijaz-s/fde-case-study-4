@@ -1,0 +1,75 @@
+MAINTENANCE LOG - PLANT A & B
+Generated: 2026-03-20
+---
+
+12 March 2026, CNC-004.
+Operator reported unusual spindle noise at approximately 09:40.
+Machine stopped at 11:15.
+Spindle temperature was reportedly above normal (reached 94C).
+Bearing inspected and replaced.
+Downtime = 3.4 hours.
+Technician: John Smith
+Parts replaced: Spindle bearing
+
+15 March 2026, IMM-002.
+Hydraulic pressure dropped roughly 17% before shutdown.
+Observed pressure change = (142 - 117) / 142 × 100 = 17.6%
+Filter replaced.
+Machine restarted after 2.1 hours.
+Technician: Maria Garcia
+
+18 March 2026, CNC-007.
+Routine preventive maintenance performed.
+Spindle oil changed, bearings inspected, all seals OK.
+Downtime = 1.5 + 0.25 hours total.
+Technician: James Lee
+
+22 March 2026, IMM-003.
+Unexpected shutdown during production run.
+Pressure sensor reading anomalous. Replaced sensor.
+Downtime = 1.8 hours
+Technician: Sarah Johnson
+
+25 March 2026, CNC-001.
+Annual maintenance contract service.
+Checked spindle runout, replaced seals.
+No issues found.
+Downtime = 2.0 hours
+Provider: ThirdParty Maintenance Inc.
+
+28 March 2026, CNC-009.
+Machine spindle temperature alarm.
+Temperature reached 98C. Cooling system inspected.
+Repaired coolant pump.
+Total repair duration = 45 min + 70 min = 115 minutes = 1.92 hours
+Technician: Mark Wilson
+
+31 March 2026, IMM-001.
+Preventive maintenance. Hydraulic oil analysis normal. No action required.
+Downtime = 1.25 hours
+Technician: Elena Rodriguez
+
+05 April 2026, CNC-004.
+Follow-up inspection post bearing replacement.
+Spindle temperature nominal. Operating normally.
+Downtime = 0.5 hours
+Technician: John Smith
+
+10 April 2026, IMM-002.
+Hydraulic system performance check. Pressure stable.
+All seals verified good condition.
+Downtime = 1.75 hours
+Technician: Maria Garcia
+
+15 April 2026, CNC-007.
+Spindle maintenance. Bearing preload adjustment.
+Temperature stable after adjustment.
+Downtime = 3.0 hours
+Technician: James Lee
+
+20 April 2026, All machines inspection.
+Annual audit by third-party maintenance contractor.
+3 machines require attention.
+CNC-004: Monitor spindle closely (bearing replacement still young)
+IMM-002: Hydraulic pressure trending down, monitor
+CNC-009: Cooling system performance adequate

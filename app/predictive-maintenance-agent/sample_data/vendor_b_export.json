@@ -1,0 +1,6190 @@
+[
+  {
+    "recordedAt": "2026-01-15T00:00:00",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 144.1,
+    "cycleDuration_s": 46.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:00:12.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.4,
+    "cycleDuration_s": 46.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:00:25",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 141.5,
+    "cycleDuration_s": 43.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:00:37.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 130.1,
+    "cycleDuration_s": 45.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:00:50",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 143.4,
+    "cycleDuration_s": 45.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:01:02.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.8,
+    "cycleDuration_s": 44.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:01:15",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 136.8,
+    "cycleDuration_s": 47.2,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:01:27.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 143.7,
+    "cycleDuration_s": 41.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:01:40",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 131.7,
+    "cycleDuration_s": 44.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:01:52.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.7,
+    "cycleDuration_s": 45.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:02:05",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 137.3,
+    "cycleDuration_s": 43.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:02:17.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 131.0,
+    "cycleDuration_s": 44.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:02:30",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 137.1,
+    "cycleDuration_s": 45.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:02:42.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 136.9,
+    "cycleDuration_s": 45.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:02:55",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 129.7,
+    "cycleDuration_s": 50.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:03:07.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.3,
+    "cycleDuration_s": 47.1,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:03:20",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.4,
+    "cycleDuration_s": 43.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:03:32.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 133.7,
+    "cycleDuration_s": 46.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:03:45",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 143.9,
+    "cycleDuration_s": 43.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:03:57.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 149.1,
+    "cycleDuration_s": 45.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:04:10",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 138.9,
+    "cycleDuration_s": 46.5,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:04:22.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 138.9,
+    "cycleDuration_s": 43.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:04:35",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.2,
+    "cycleDuration_s": 42.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:04:47.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 147.7,
+    "cycleDuration_s": 44.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:05:00",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 135.5,
+    "cycleDuration_s": 45.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:05:12.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 149.2,
+    "cycleDuration_s": 42.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:05:25",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 145.8,
+    "cycleDuration_s": 44.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:05:37.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.0,
+    "cycleDuration_s": 44.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:05:50",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 131.4,
+    "cycleDuration_s": 45.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:06:02.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 126.3,
+    "cycleDuration_s": 45.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:06:15",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 133.5,
+    "cycleDuration_s": 46.9,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:06:27.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 141.9,
+    "cycleDuration_s": 43.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:06:40",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 137.7,
+    "cycleDuration_s": 47.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:06:52.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.0,
+    "cycleDuration_s": 47.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:07:05",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 146.5,
+    "cycleDuration_s": 45.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:07:17.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.4,
+    "cycleDuration_s": 45.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:07:30",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.1,
+    "cycleDuration_s": 44.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:07:42.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 141.6,
+    "cycleDuration_s": 45.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:07:55",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 143.4,
+    "cycleDuration_s": 43.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:08:07.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 145.3,
+    "cycleDuration_s": 44.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:08:20",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 132.8,
+    "cycleDuration_s": 44.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:08:32.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 137.0,
+    "cycleDuration_s": 46.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:08:45",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 135.1,
+    "cycleDuration_s": 43.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:08:57.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 145.6,
+    "cycleDuration_s": 43.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:09:10",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 138.6,
+    "cycleDuration_s": 45.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:09:22.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 137.5,
+    "cycleDuration_s": 48.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:09:35",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 137.6,
+    "cycleDuration_s": 43.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:09:47.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.6,
+    "cycleDuration_s": 40.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:10:00",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 137.1,
+    "cycleDuration_s": 43.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:10:12.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 143.9,
+    "cycleDuration_s": 45.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:10:25",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.9,
+    "cycleDuration_s": 44.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:10:37.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 144.8,
+    "cycleDuration_s": 45.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:10:50",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 134.3,
+    "cycleDuration_s": 44.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:11:02.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 145.0,
+    "cycleDuration_s": 46.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:11:15",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.9,
+    "cycleDuration_s": 46.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:11:27.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 144.7,
+    "cycleDuration_s": 43.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:11:40",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 143.3,
+    "cycleDuration_s": 45.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:11:52.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 136.2,
+    "cycleDuration_s": 42.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:12:05",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 137.9,
+    "cycleDuration_s": 45.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:12:17.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 138.8,
+    "cycleDuration_s": 43.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:12:30",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 150.5,
+    "cycleDuration_s": 47.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:12:42.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.8,
+    "cycleDuration_s": 46.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:12:55",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.6,
+    "cycleDuration_s": 43.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:13:07.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 143.2,
+    "cycleDuration_s": 43.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:13:20",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.0,
+    "cycleDuration_s": 47.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:13:32.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 133.0,
+    "cycleDuration_s": 39.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:13:45",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 144.4,
+    "cycleDuration_s": 47.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:13:57.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 134.8,
+    "cycleDuration_s": 48.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:14:10",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.5,
+    "cycleDuration_s": 44.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:14:22.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.3,
+    "cycleDuration_s": 49.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:14:35",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 146.9,
+    "cycleDuration_s": 43.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:14:47.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.1,
+    "cycleDuration_s": 45.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:15:00",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 134.6,
+    "cycleDuration_s": 48.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:15:12.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 145.7,
+    "cycleDuration_s": 45.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:15:25",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 137.5,
+    "cycleDuration_s": 42.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:15:37.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 146.5,
+    "cycleDuration_s": 46.5,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:15:50",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 134.0,
+    "cycleDuration_s": 45.3,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:16:02.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 136.8,
+    "cycleDuration_s": 44.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:16:15",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 133.6,
+    "cycleDuration_s": 43.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:16:27.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 144.8,
+    "cycleDuration_s": 44.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:16:40",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 136.4,
+    "cycleDuration_s": 46.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:16:52.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.5,
+    "cycleDuration_s": 44.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:17:05",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 150.0,
+    "cycleDuration_s": 48.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:17:17.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 141.6,
+    "cycleDuration_s": 42.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:17:30",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 136.6,
+    "cycleDuration_s": 47.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:17:42.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 146.4,
+    "cycleDuration_s": 44.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:17:55",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 148.1,
+    "cycleDuration_s": 45.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:18:07.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 141.6,
+    "cycleDuration_s": 46.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:18:20",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 133.5,
+    "cycleDuration_s": 43.8,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:18:32.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.5,
+    "cycleDuration_s": 47.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:18:45",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.4,
+    "cycleDuration_s": 47.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:18:57.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 134.8,
+    "cycleDuration_s": 45.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:19:10",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 144.1,
+    "cycleDuration_s": 44.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:19:22.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 135.9,
+    "cycleDuration_s": 46.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:19:35",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 143.5,
+    "cycleDuration_s": 45.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:19:47.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 143.4,
+    "cycleDuration_s": 44.4,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:20:00",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 132.5,
+    "cycleDuration_s": 45.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:20:12.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.4,
+    "cycleDuration_s": 47.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:20:25",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 145.6,
+    "cycleDuration_s": 40.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:20:37.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 143.9,
+    "cycleDuration_s": 47.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:20:50",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 132.0,
+    "cycleDuration_s": 44.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:21:02.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 143.9,
+    "cycleDuration_s": 46.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:21:15",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 146.9,
+    "cycleDuration_s": 45.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:21:27.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 147.9,
+    "cycleDuration_s": 48.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:21:40",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 133.1,
+    "cycleDuration_s": 46.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:21:52.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 145.4,
+    "cycleDuration_s": 43.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:22:05",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 143.3,
+    "cycleDuration_s": 46.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:22:17.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 150.8,
+    "cycleDuration_s": 44.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:22:30",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 145.5,
+    "cycleDuration_s": 47.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:22:42.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 143.0,
+    "cycleDuration_s": 48.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:22:55",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.1,
+    "cycleDuration_s": 47.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:23:07.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 138.1,
+    "cycleDuration_s": 47.9,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:23:20",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 143.5,
+    "cycleDuration_s": 44.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:23:32.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 137.5,
+    "cycleDuration_s": 44.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:23:45",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 144.8,
+    "cycleDuration_s": 45.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:23:57.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 141.1,
+    "cycleDuration_s": 47.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:24:10",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.4,
+    "cycleDuration_s": 44.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:24:22.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 135.8,
+    "cycleDuration_s": 44.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:24:35",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 131.5,
+    "cycleDuration_s": 43.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:24:47.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 136.3,
+    "cycleDuration_s": 48.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:25:00",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.0,
+    "cycleDuration_s": 46.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:25:12.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 133.2,
+    "cycleDuration_s": 41.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:25:25",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 136.1,
+    "cycleDuration_s": 47.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:25:37.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 150.2,
+    "cycleDuration_s": 44.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:25:50",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 133.7,
+    "cycleDuration_s": 45.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:26:02.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 134.9,
+    "cycleDuration_s": 42.8,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:26:15",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 135.1,
+    "cycleDuration_s": 43.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:26:27.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 138.8,
+    "cycleDuration_s": 48.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:26:40",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.6,
+    "cycleDuration_s": 46.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:26:52.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 141.7,
+    "cycleDuration_s": 45.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:27:05",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 141.8,
+    "cycleDuration_s": 47.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:27:17.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 154.6,
+    "cycleDuration_s": 45.0,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:27:30",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 130.4,
+    "cycleDuration_s": 46.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:27:42.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 141.1,
+    "cycleDuration_s": 42.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:27:55",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 133.9,
+    "cycleDuration_s": 45.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:28:07.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 131.7,
+    "cycleDuration_s": 48.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:28:20",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.0,
+    "cycleDuration_s": 41.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:28:32.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 135.5,
+    "cycleDuration_s": 44.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:28:45",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.9,
+    "cycleDuration_s": 44.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:28:57.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 133.9,
+    "cycleDuration_s": 45.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:29:10",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 144.6,
+    "cycleDuration_s": 44.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:29:22.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 149.7,
+    "cycleDuration_s": 43.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:29:35",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 141.9,
+    "cycleDuration_s": 47.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:29:47.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 143.6,
+    "cycleDuration_s": 46.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:30:00",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.9,
+    "cycleDuration_s": 47.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:30:12.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 133.0,
+    "cycleDuration_s": 45.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:30:25",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.1,
+    "cycleDuration_s": 40.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:30:37.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 149.3,
+    "cycleDuration_s": 46.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:30:50",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 135.9,
+    "cycleDuration_s": 47.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:31:02.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 150.1,
+    "cycleDuration_s": 49.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:31:15",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.7,
+    "cycleDuration_s": 41.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:31:27.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.1,
+    "cycleDuration_s": 44.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:31:40",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 136.4,
+    "cycleDuration_s": 45.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:31:52.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.3,
+    "cycleDuration_s": 44.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:32:05",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 141.9,
+    "cycleDuration_s": 45.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:32:17.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 133.5,
+    "cycleDuration_s": 46.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:32:30",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 130.9,
+    "cycleDuration_s": 46.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:32:42.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 137.7,
+    "cycleDuration_s": 43.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:32:55",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.2,
+    "cycleDuration_s": 43.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:33:07.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.0,
+    "cycleDuration_s": 45.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:33:20",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 136.4,
+    "cycleDuration_s": 45.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:33:32.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 137.2,
+    "cycleDuration_s": 45.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:33:45",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 136.6,
+    "cycleDuration_s": 44.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:33:57.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 130.9,
+    "cycleDuration_s": 47.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:34:10",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.1,
+    "cycleDuration_s": 46.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:34:22.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 151.3,
+    "cycleDuration_s": 46.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:34:35",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.2,
+    "cycleDuration_s": 43.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:34:47.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 133.5,
+    "cycleDuration_s": 45.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:35:00",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 143.9,
+    "cycleDuration_s": 46.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:35:12.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.3,
+    "cycleDuration_s": 46.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:35:25",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 138.1,
+    "cycleDuration_s": 41.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:35:37.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 138.8,
+    "cycleDuration_s": 44.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:35:50",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 137.7,
+    "cycleDuration_s": 44.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:36:02.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.6,
+    "cycleDuration_s": 43.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:36:15",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 149.2,
+    "cycleDuration_s": 45.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:36:27.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 137.6,
+    "cycleDuration_s": 43.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:36:40",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.1,
+    "cycleDuration_s": 44.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:36:52.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 144.3,
+    "cycleDuration_s": 42.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:37:05",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.2,
+    "cycleDuration_s": 43.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:37:17.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.3,
+    "cycleDuration_s": 49.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:37:30",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 151.5,
+    "cycleDuration_s": 47.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:37:42.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 141.6,
+    "cycleDuration_s": 47.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:37:55",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 136.1,
+    "cycleDuration_s": 45.7,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:38:07.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 147.5,
+    "cycleDuration_s": 46.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:38:20",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 145.8,
+    "cycleDuration_s": 42.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:38:32.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 128.5,
+    "cycleDuration_s": 43.6,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:38:45",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 132.7,
+    "cycleDuration_s": 41.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:38:57.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 144.0,
+    "cycleDuration_s": 42.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:39:10",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 133.5,
+    "cycleDuration_s": 47.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:39:22.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.7,
+    "cycleDuration_s": 46.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:39:35",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 134.2,
+    "cycleDuration_s": 43.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:39:47.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 138.3,
+    "cycleDuration_s": 47.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:40:00",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.0,
+    "cycleDuration_s": 43.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:40:12.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.6,
+    "cycleDuration_s": 45.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:40:25",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 136.3,
+    "cycleDuration_s": 39.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:40:37.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 133.6,
+    "cycleDuration_s": 41.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:40:50",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 132.6,
+    "cycleDuration_s": 43.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:41:02.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 138.3,
+    "cycleDuration_s": 42.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:41:15",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.9,
+    "cycleDuration_s": 47.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:41:27.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.1,
+    "cycleDuration_s": 45.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:41:40",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.3,
+    "cycleDuration_s": 43.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:41:52.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.7,
+    "cycleDuration_s": 44.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:42:05",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 137.0,
+    "cycleDuration_s": 41.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:42:17.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 141.9,
+    "cycleDuration_s": 44.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:42:30",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 135.9,
+    "cycleDuration_s": 46.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:42:42.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 153.6,
+    "cycleDuration_s": 45.8,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:42:55",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 133.7,
+    "cycleDuration_s": 43.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:43:07.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 138.4,
+    "cycleDuration_s": 45.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:43:20",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 136.6,
+    "cycleDuration_s": 43.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:43:32.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 150.6,
+    "cycleDuration_s": 47.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:43:45",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 135.4,
+    "cycleDuration_s": 43.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:43:57.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 143.7,
+    "cycleDuration_s": 48.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:44:10",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.5,
+    "cycleDuration_s": 46.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:44:22.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.5,
+    "cycleDuration_s": 48.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:44:35",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 135.6,
+    "cycleDuration_s": 45.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:44:47.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.3,
+    "cycleDuration_s": 46.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:45:00",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 132.7,
+    "cycleDuration_s": 45.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:45:12.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 136.7,
+    "cycleDuration_s": 46.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:45:25",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.1,
+    "cycleDuration_s": 48.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:45:37.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 143.0,
+    "cycleDuration_s": 48.3,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:45:50",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 148.8,
+    "cycleDuration_s": 43.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:46:02.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 144.7,
+    "cycleDuration_s": 45.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:46:15",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 145.8,
+    "cycleDuration_s": 42.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:46:27.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.4,
+    "cycleDuration_s": 45.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:46:40",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 145.4,
+    "cycleDuration_s": 48.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:46:52.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.5,
+    "cycleDuration_s": 43.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:47:05",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.9,
+    "cycleDuration_s": 45.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:47:17.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 146.0,
+    "cycleDuration_s": 44.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:47:30",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 136.4,
+    "cycleDuration_s": 47.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:47:42.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 149.9,
+    "cycleDuration_s": 43.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:47:55",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 144.8,
+    "cycleDuration_s": 47.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:48:07.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 146.0,
+    "cycleDuration_s": 46.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:48:20",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 134.7,
+    "cycleDuration_s": 46.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:48:32.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 141.2,
+    "cycleDuration_s": 44.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:48:45",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.1,
+    "cycleDuration_s": 45.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:48:57.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 144.9,
+    "cycleDuration_s": 44.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:49:10",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 133.4,
+    "cycleDuration_s": 43.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:49:22.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 141.4,
+    "cycleDuration_s": 46.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:49:35",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.7,
+    "cycleDuration_s": 43.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:49:47.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 126.8,
+    "cycleDuration_s": 40.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:50:00",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.8,
+    "cycleDuration_s": 44.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:50:12.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 138.9,
+    "cycleDuration_s": 43.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:50:25",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.5,
+    "cycleDuration_s": 42.0,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:50:37.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 137.8,
+    "cycleDuration_s": 46.0,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:50:50",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 134.5,
+    "cycleDuration_s": 45.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:51:02.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 137.7,
+    "cycleDuration_s": 45.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:51:15",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 145.7,
+    "cycleDuration_s": 46.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:51:27.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.6,
+    "cycleDuration_s": 40.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:51:40",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.7,
+    "cycleDuration_s": 48.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:51:52.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.8,
+    "cycleDuration_s": 44.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:52:05",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 146.2,
+    "cycleDuration_s": 42.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:52:17.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 145.1,
+    "cycleDuration_s": 43.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:52:30",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 145.6,
+    "cycleDuration_s": 41.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:52:42.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 134.8,
+    "cycleDuration_s": 46.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:52:55",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.6,
+    "cycleDuration_s": 45.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:53:07.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.0,
+    "cycleDuration_s": 43.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:53:20",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 138.1,
+    "cycleDuration_s": 47.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:53:32.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 138.3,
+    "cycleDuration_s": 46.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:53:45",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 138.1,
+    "cycleDuration_s": 46.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:53:57.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 143.1,
+    "cycleDuration_s": 45.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:54:10",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.7,
+    "cycleDuration_s": 41.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:54:22.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 150.2,
+    "cycleDuration_s": 47.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:54:35",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 133.0,
+    "cycleDuration_s": 46.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:54:47.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.8,
+    "cycleDuration_s": 47.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:55:00",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 137.5,
+    "cycleDuration_s": 46.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:55:12.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 144.5,
+    "cycleDuration_s": 47.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:55:25",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 144.7,
+    "cycleDuration_s": 47.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:55:37.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 135.0,
+    "cycleDuration_s": 42.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:55:50",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 131.0,
+    "cycleDuration_s": 47.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:56:02.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 129.5,
+    "cycleDuration_s": 45.8,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:56:15",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 141.3,
+    "cycleDuration_s": 43.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:56:27.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 135.1,
+    "cycleDuration_s": 47.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:56:40",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 145.5,
+    "cycleDuration_s": 43.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:56:52.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 131.3,
+    "cycleDuration_s": 45.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:57:05",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 144.3,
+    "cycleDuration_s": 41.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:57:17.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 140.2,
+    "cycleDuration_s": 45.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:57:30",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.0,
+    "cycleDuration_s": 42.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:57:42.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 136.3,
+    "cycleDuration_s": 48.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:57:55",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.8,
+    "cycleDuration_s": 44.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:58:07.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 133.2,
+    "cycleDuration_s": 40.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:58:20",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 136.2,
+    "cycleDuration_s": 45.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:58:32.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 141.5,
+    "cycleDuration_s": 42.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:58:45",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.8,
+    "cycleDuration_s": 47.4,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:58:57.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 144.6,
+    "cycleDuration_s": 44.9,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:59:10",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 148.9,
+    "cycleDuration_s": 44.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:59:22.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 139.5,
+    "cycleDuration_s": 44.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:59:35",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 149.0,
+    "cycleDuration_s": 43.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:59:47.500000",
+    "equipmentCode": "IMM-001",
+    "hydPressure_bar": 142.0,
+    "cycleDuration_s": 47.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:00:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.9,
+    "cycleDuration_s": 44.8,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:00:12.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 130.6,
+    "cycleDuration_s": 46.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:00:25",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 133.2,
+    "cycleDuration_s": 42.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:00:37.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.6,
+    "cycleDuration_s": 46.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:00:50",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.6,
+    "cycleDuration_s": 48.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:01:02.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 151.1,
+    "cycleDuration_s": 44.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:01:15",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.4,
+    "cycleDuration_s": 46.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:01:27.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 134.4,
+    "cycleDuration_s": 46.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:01:40",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 133.9,
+    "cycleDuration_s": 43.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:01:52.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.8,
+    "cycleDuration_s": 44.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:02:05",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 141.3,
+    "cycleDuration_s": 44.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:02:17.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.7,
+    "cycleDuration_s": 43.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:02:30",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.8,
+    "cycleDuration_s": 43.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:02:42.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 149.8,
+    "cycleDuration_s": 44.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:02:55",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.6,
+    "cycleDuration_s": 47.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:03:07.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 144.3,
+    "cycleDuration_s": 42.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:03:20",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.7,
+    "cycleDuration_s": 43.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:03:32.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.5,
+    "cycleDuration_s": 42.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:03:45",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.0,
+    "cycleDuration_s": 44.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:03:57.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.9,
+    "cycleDuration_s": 42.7,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:04:10",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.1,
+    "cycleDuration_s": 46.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:04:22.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 141.8,
+    "cycleDuration_s": 45.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:04:35",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 147.6,
+    "cycleDuration_s": 45.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:04:47.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.0,
+    "cycleDuration_s": 44.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-14T23:35:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.8,
+    "cycleDuration_s": 47.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-14T23:40:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 134.2,
+    "cycleDuration_s": 47.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-14T23:45:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 130.5,
+    "cycleDuration_s": 47.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-14T23:50:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 127.0,
+    "cycleDuration_s": 47.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-14T23:55:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 123.5,
+    "cycleDuration_s": 47.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:00:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 119.5,
+    "cycleDuration_s": 47.2,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:05:12.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.5,
+    "cycleDuration_s": 45.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:05:25",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.4,
+    "cycleDuration_s": 45.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:05:37.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.3,
+    "cycleDuration_s": 43.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:05:50",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.5,
+    "cycleDuration_s": 47.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:06:02.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.3,
+    "cycleDuration_s": 46.9,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:06:15",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 146.5,
+    "cycleDuration_s": 46.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:06:27.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 141.4,
+    "cycleDuration_s": 44.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:06:40",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 148.2,
+    "cycleDuration_s": 44.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:06:52.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 147.6,
+    "cycleDuration_s": 49.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:07:05",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.1,
+    "cycleDuration_s": 45.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:07:17.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 147.6,
+    "cycleDuration_s": 46.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:07:30",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 135.3,
+    "cycleDuration_s": 42.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:07:42.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.9,
+    "cycleDuration_s": 45.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:07:55",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 141.4,
+    "cycleDuration_s": 46.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:08:07.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.2,
+    "cycleDuration_s": 47.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:08:20",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.5,
+    "cycleDuration_s": 48.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:08:32.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.8,
+    "cycleDuration_s": 43.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:08:45",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 152.5,
+    "cycleDuration_s": 45.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:08:57.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 131.7,
+    "cycleDuration_s": 43.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:09:10",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 145.1,
+    "cycleDuration_s": 46.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:09:22.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.4,
+    "cycleDuration_s": 44.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:09:35",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 134.4,
+    "cycleDuration_s": 45.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:09:47.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 124.4,
+    "cycleDuration_s": 43.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:10:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 147.7,
+    "cycleDuration_s": 44.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:10:12.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 141.7,
+    "cycleDuration_s": 43.8,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:10:25",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.9,
+    "cycleDuration_s": 46.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:10:37.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 141.1,
+    "cycleDuration_s": 44.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:10:50",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.8,
+    "cycleDuration_s": 47.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:11:02.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.6,
+    "cycleDuration_s": 44.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:11:15",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 141.0,
+    "cycleDuration_s": 43.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:11:27.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.1,
+    "cycleDuration_s": 47.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:11:40",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.5,
+    "cycleDuration_s": 45.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:11:52.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 147.3,
+    "cycleDuration_s": 43.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:12:05",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.0,
+    "cycleDuration_s": 45.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:12:17.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.3,
+    "cycleDuration_s": 48.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:12:30",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.1,
+    "cycleDuration_s": 44.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:12:42.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 152.4,
+    "cycleDuration_s": 47.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:12:55",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 146.3,
+    "cycleDuration_s": 43.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:13:07.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 145.3,
+    "cycleDuration_s": 43.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:13:20",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 147.4,
+    "cycleDuration_s": 45.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:13:32.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 146.5,
+    "cycleDuration_s": 46.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:13:45",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 133.0,
+    "cycleDuration_s": 45.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:13:57.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 144.0,
+    "cycleDuration_s": 42.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:14:10",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 133.3,
+    "cycleDuration_s": 45.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:14:22.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 131.7,
+    "cycleDuration_s": 44.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:14:35",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 146.5,
+    "cycleDuration_s": 43.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:14:47.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.8,
+    "cycleDuration_s": 47.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:15:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.6,
+    "cycleDuration_s": 43.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:15:12.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.8,
+    "cycleDuration_s": 45.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:15:25",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.5,
+    "cycleDuration_s": 43.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:15:37.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.0,
+    "cycleDuration_s": 45.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:15:50",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.6,
+    "cycleDuration_s": 49.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:16:02.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.1,
+    "cycleDuration_s": 46.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:16:15",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 149.3,
+    "cycleDuration_s": 46.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:16:27.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.7,
+    "cycleDuration_s": 46.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-14T23:46:40",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.6,
+    "cycleDuration_s": 51.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-14T23:51:40",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 134.9,
+    "cycleDuration_s": 51.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-14T23:56:40",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 132.3,
+    "cycleDuration_s": 51.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:01:40",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 125.9,
+    "cycleDuration_s": 51.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:06:40",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 123.7,
+    "cycleDuration_s": 51.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:11:40",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 119.1,
+    "cycleDuration_s": 51.2,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:16:52.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.0,
+    "cycleDuration_s": 47.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:17:05",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.6,
+    "cycleDuration_s": 45.2,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:17:17.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 134.9,
+    "cycleDuration_s": 46.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:17:30",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.0,
+    "cycleDuration_s": 48.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:17:42.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.5,
+    "cycleDuration_s": 45.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:17:55",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 133.0,
+    "cycleDuration_s": 48.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:18:07.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 135.7,
+    "cycleDuration_s": 42.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:18:20",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.7,
+    "cycleDuration_s": 46.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:18:32.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.9,
+    "cycleDuration_s": 45.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:18:45",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.7,
+    "cycleDuration_s": 40.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:18:57.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 126.0,
+    "cycleDuration_s": 45.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:19:10",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 129.3,
+    "cycleDuration_s": 46.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:19:22.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.8,
+    "cycleDuration_s": 45.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:19:35",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.5,
+    "cycleDuration_s": 43.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:19:47.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 147.7,
+    "cycleDuration_s": 44.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:20:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.1,
+    "cycleDuration_s": 46.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:20:12.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 135.9,
+    "cycleDuration_s": 45.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:20:25",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 141.1,
+    "cycleDuration_s": 44.2,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:20:37.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.2,
+    "cycleDuration_s": 42.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:20:50",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.1,
+    "cycleDuration_s": 43.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:21:02.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 135.6,
+    "cycleDuration_s": 44.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:21:15",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.9,
+    "cycleDuration_s": 42.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:21:27.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.7,
+    "cycleDuration_s": 46.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:21:40",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 146.1,
+    "cycleDuration_s": 46.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:21:52.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.4,
+    "cycleDuration_s": 44.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:22:05",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 135.8,
+    "cycleDuration_s": 42.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:22:17.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 141.5,
+    "cycleDuration_s": 45.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:22:30",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 148.5,
+    "cycleDuration_s": 45.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:22:42.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.9,
+    "cycleDuration_s": 43.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:22:55",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.2,
+    "cycleDuration_s": 47.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:23:07.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.2,
+    "cycleDuration_s": 45.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:23:20",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 130.4,
+    "cycleDuration_s": 48.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:23:32.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.7,
+    "cycleDuration_s": 45.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:23:45",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.0,
+    "cycleDuration_s": 46.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:23:57.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.7,
+    "cycleDuration_s": 45.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:24:10",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.0,
+    "cycleDuration_s": 45.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:24:22.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 141.6,
+    "cycleDuration_s": 48.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:24:35",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 145.2,
+    "cycleDuration_s": 45.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:24:47.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 135.3,
+    "cycleDuration_s": 46.4,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:25:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 133.1,
+    "cycleDuration_s": 48.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:25:12.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 128.1,
+    "cycleDuration_s": 49.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:25:25",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 147.5,
+    "cycleDuration_s": 46.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:25:37.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.7,
+    "cycleDuration_s": 43.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:25:50",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.9,
+    "cycleDuration_s": 43.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:26:02.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.5,
+    "cycleDuration_s": 45.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:26:15",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.0,
+    "cycleDuration_s": 47.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:26:27.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.1,
+    "cycleDuration_s": 49.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:26:40",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.7,
+    "cycleDuration_s": 42.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:26:52.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 141.4,
+    "cycleDuration_s": 46.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:27:05",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.2,
+    "cycleDuration_s": 44.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:27:17.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.0,
+    "cycleDuration_s": 44.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:27:30",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.0,
+    "cycleDuration_s": 46.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:27:42.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 148.7,
+    "cycleDuration_s": 50.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:27:55",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.4,
+    "cycleDuration_s": 42.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:28:07.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.6,
+    "cycleDuration_s": 44.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:28:20",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.9,
+    "cycleDuration_s": 44.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:28:32.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 135.0,
+    "cycleDuration_s": 47.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:28:45",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.5,
+    "cycleDuration_s": 41.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:28:57.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 134.9,
+    "cycleDuration_s": 47.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:29:10",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.8,
+    "cycleDuration_s": 45.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:29:22.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.9,
+    "cycleDuration_s": 42.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:29:35",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 131.3,
+    "cycleDuration_s": 41.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:29:47.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 146.3,
+    "cycleDuration_s": 41.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:30:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.8,
+    "cycleDuration_s": 43.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:30:12.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.0,
+    "cycleDuration_s": 43.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:30:25",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 145.6,
+    "cycleDuration_s": 43.6,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:30:37.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 141.3,
+    "cycleDuration_s": 44.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:30:50",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.1,
+    "cycleDuration_s": 42.3,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:31:02.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.2,
+    "cycleDuration_s": 44.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:01:15",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.7,
+    "cycleDuration_s": 49.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:06:15",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 135.2,
+    "cycleDuration_s": 49.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:11:15",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 131.0,
+    "cycleDuration_s": 49.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:16:15",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 128.6,
+    "cycleDuration_s": 49.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:21:15",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 123.5,
+    "cycleDuration_s": 49.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:26:15",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 119.5,
+    "cycleDuration_s": 49.4,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:31:27.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.3,
+    "cycleDuration_s": 45.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:31:40",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.0,
+    "cycleDuration_s": 43.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:31:52.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 144.4,
+    "cycleDuration_s": 47.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:32:05",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.0,
+    "cycleDuration_s": 45.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:32:17.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 146.8,
+    "cycleDuration_s": 49.3,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:32:30",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.0,
+    "cycleDuration_s": 45.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:32:42.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.4,
+    "cycleDuration_s": 45.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:32:55",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.1,
+    "cycleDuration_s": 46.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:33:07.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 132.7,
+    "cycleDuration_s": 48.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:33:20",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.3,
+    "cycleDuration_s": 45.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:33:32.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 146.1,
+    "cycleDuration_s": 45.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:33:45",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 144.0,
+    "cycleDuration_s": 42.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:33:57.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.4,
+    "cycleDuration_s": 43.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:34:10",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.3,
+    "cycleDuration_s": 45.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:34:22.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.9,
+    "cycleDuration_s": 42.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:34:35",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.6,
+    "cycleDuration_s": 45.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:34:47.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 132.3,
+    "cycleDuration_s": 45.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:35:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.5,
+    "cycleDuration_s": 44.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:35:12.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.1,
+    "cycleDuration_s": 46.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:35:25",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.8,
+    "cycleDuration_s": 44.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:35:37.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 150.3,
+    "cycleDuration_s": 45.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:35:50",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.2,
+    "cycleDuration_s": 43.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:36:02.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 141.7,
+    "cycleDuration_s": 46.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:36:15",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.3,
+    "cycleDuration_s": 41.7,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:36:27.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 134.7,
+    "cycleDuration_s": 45.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:36:40",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 135.7,
+    "cycleDuration_s": 45.2,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:36:52.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 141.2,
+    "cycleDuration_s": 43.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:37:05",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.5,
+    "cycleDuration_s": 45.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:37:17.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.8,
+    "cycleDuration_s": 44.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:37:30",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.7,
+    "cycleDuration_s": 46.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:37:42.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.6,
+    "cycleDuration_s": 46.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:37:55",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.1,
+    "cycleDuration_s": 43.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:38:07.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 135.2,
+    "cycleDuration_s": 43.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:38:20",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 127.6,
+    "cycleDuration_s": 43.0,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:38:32.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.1,
+    "cycleDuration_s": 47.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:38:45",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.0,
+    "cycleDuration_s": 45.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:38:57.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.6,
+    "cycleDuration_s": 44.4,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:39:10",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.0,
+    "cycleDuration_s": 44.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:39:22.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.6,
+    "cycleDuration_s": 45.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:39:35",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 146.0,
+    "cycleDuration_s": 44.7,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:39:47.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 134.1,
+    "cycleDuration_s": 44.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:40:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 149.6,
+    "cycleDuration_s": 46.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:40:12.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.1,
+    "cycleDuration_s": 47.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:40:25",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 132.4,
+    "cycleDuration_s": 42.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:40:37.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.4,
+    "cycleDuration_s": 41.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:40:50",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.9,
+    "cycleDuration_s": 40.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:41:02.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 149.3,
+    "cycleDuration_s": 42.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:41:15",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.6,
+    "cycleDuration_s": 47.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:41:27.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 129.3,
+    "cycleDuration_s": 42.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:41:40",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.7,
+    "cycleDuration_s": 44.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:41:52.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.4,
+    "cycleDuration_s": 47.7,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:42:05",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 141.5,
+    "cycleDuration_s": 44.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:42:17.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 135.5,
+    "cycleDuration_s": 48.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:42:30",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.7,
+    "cycleDuration_s": 42.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:42:42.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 131.4,
+    "cycleDuration_s": 43.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:42:55",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.6,
+    "cycleDuration_s": 45.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:43:07.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.3,
+    "cycleDuration_s": 43.7,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:43:20",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.3,
+    "cycleDuration_s": 45.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:43:32.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 145.4,
+    "cycleDuration_s": 42.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:43:45",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 147.2,
+    "cycleDuration_s": 44.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:43:57.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.9,
+    "cycleDuration_s": 46.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:44:10",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 134.8,
+    "cycleDuration_s": 46.8,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:44:22.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.3,
+    "cycleDuration_s": 45.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:44:35",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 141.5,
+    "cycleDuration_s": 51.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:44:47.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 144.1,
+    "cycleDuration_s": 48.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:45:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 147.8,
+    "cycleDuration_s": 45.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:45:12.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.7,
+    "cycleDuration_s": 46.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:45:25",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.5,
+    "cycleDuration_s": 45.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:45:37.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 145.9,
+    "cycleDuration_s": 41.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:45:50",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 133.9,
+    "cycleDuration_s": 45.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:46:02.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.0,
+    "cycleDuration_s": 43.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:46:15",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 145.4,
+    "cycleDuration_s": 42.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:46:27.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.7,
+    "cycleDuration_s": 43.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:46:40",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.7,
+    "cycleDuration_s": 41.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:46:52.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 134.8,
+    "cycleDuration_s": 46.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:47:05",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.5,
+    "cycleDuration_s": 42.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:47:17.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.9,
+    "cycleDuration_s": 44.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:47:30",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 141.2,
+    "cycleDuration_s": 42.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:47:42.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.3,
+    "cycleDuration_s": 45.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:47:55",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.8,
+    "cycleDuration_s": 44.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:48:07.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 135.9,
+    "cycleDuration_s": 43.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:48:20",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.7,
+    "cycleDuration_s": 46.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:48:32.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 133.2,
+    "cycleDuration_s": 44.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:48:45",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 145.1,
+    "cycleDuration_s": 43.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:48:57.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 144.7,
+    "cycleDuration_s": 42.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:49:10",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 146.7,
+    "cycleDuration_s": 46.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:49:22.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.1,
+    "cycleDuration_s": 46.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:49:35",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 135.4,
+    "cycleDuration_s": 41.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:49:47.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.8,
+    "cycleDuration_s": 42.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:20:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.3,
+    "cycleDuration_s": 51.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:25:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.2,
+    "cycleDuration_s": 51.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:30:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 131.3,
+    "cycleDuration_s": 51.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:35:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 127.7,
+    "cycleDuration_s": 51.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:40:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 124.4,
+    "cycleDuration_s": 51.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:45:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 120.1,
+    "cycleDuration_s": 51.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:50:12.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 133.4,
+    "cycleDuration_s": 45.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:50:25",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.5,
+    "cycleDuration_s": 45.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:50:37.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.2,
+    "cycleDuration_s": 41.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:50:50",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 150.8,
+    "cycleDuration_s": 44.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:51:02.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 135.2,
+    "cycleDuration_s": 45.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:51:15",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.1,
+    "cycleDuration_s": 41.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:51:27.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.6,
+    "cycleDuration_s": 46.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:51:40",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.9,
+    "cycleDuration_s": 48.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:51:52.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.3,
+    "cycleDuration_s": 45.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:52:05",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.0,
+    "cycleDuration_s": 49.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:52:17.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 132.3,
+    "cycleDuration_s": 43.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:52:30",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.0,
+    "cycleDuration_s": 44.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:52:42.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 141.8,
+    "cycleDuration_s": 40.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:52:55",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.3,
+    "cycleDuration_s": 44.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:53:07.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 144.7,
+    "cycleDuration_s": 43.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:53:20",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 145.6,
+    "cycleDuration_s": 48.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:53:32.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 135.8,
+    "cycleDuration_s": 40.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:53:45",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 135.3,
+    "cycleDuration_s": 47.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:53:57.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.6,
+    "cycleDuration_s": 42.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:54:10",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.0,
+    "cycleDuration_s": 44.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:54:22.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.5,
+    "cycleDuration_s": 47.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:54:35",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.2,
+    "cycleDuration_s": 45.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:54:47.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 145.4,
+    "cycleDuration_s": 43.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:55:00",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.8,
+    "cycleDuration_s": 42.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:55:12.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.8,
+    "cycleDuration_s": 47.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:55:25",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 134.3,
+    "cycleDuration_s": 47.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:55:37.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 134.6,
+    "cycleDuration_s": 49.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:55:50",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 137.1,
+    "cycleDuration_s": 44.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:56:02.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.1,
+    "cycleDuration_s": 45.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:56:15",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 133.9,
+    "cycleDuration_s": 44.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:56:27.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.5,
+    "cycleDuration_s": 47.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:56:40",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.1,
+    "cycleDuration_s": 45.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:56:52.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.5,
+    "cycleDuration_s": 43.9,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:57:05",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 138.3,
+    "cycleDuration_s": 44.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:57:17.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.8,
+    "cycleDuration_s": 46.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:57:30",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 146.4,
+    "cycleDuration_s": 43.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:57:42.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 135.9,
+    "cycleDuration_s": 41.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:57:55",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.0,
+    "cycleDuration_s": 42.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:58:07.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 144.7,
+    "cycleDuration_s": 45.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:58:20",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 140.5,
+    "cycleDuration_s": 46.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:58:32.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 142.3,
+    "cycleDuration_s": 44.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:58:45",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 143.9,
+    "cycleDuration_s": 44.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:58:57.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 141.2,
+    "cycleDuration_s": 45.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:59:10",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 131.5,
+    "cycleDuration_s": 43.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:59:22.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 141.5,
+    "cycleDuration_s": 42.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:59:35",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 139.1,
+    "cycleDuration_s": 46.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:59:47.500000",
+    "equipmentCode": "IMM-002",
+    "hydPressure_bar": 136.8,
+    "cycleDuration_s": 42.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:00:00",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.8,
+    "cycleDuration_s": 43.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:00:12.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 144.6,
+    "cycleDuration_s": 44.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:00:25",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.4,
+    "cycleDuration_s": 43.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:00:37.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.7,
+    "cycleDuration_s": 46.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:00:50",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.2,
+    "cycleDuration_s": 45.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:01:02.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 130.3,
+    "cycleDuration_s": 44.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:01:15",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 152.4,
+    "cycleDuration_s": 47.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:01:27.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 139.8,
+    "cycleDuration_s": 46.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:01:40",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 139.7,
+    "cycleDuration_s": 46.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:01:52.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 145.9,
+    "cycleDuration_s": 44.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:02:05",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.9,
+    "cycleDuration_s": 46.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:02:17.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.0,
+    "cycleDuration_s": 43.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:02:30",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.6,
+    "cycleDuration_s": 47.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:02:42.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 142.4,
+    "cycleDuration_s": 46.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:02:55",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 135.9,
+    "cycleDuration_s": 46.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:03:07.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.2,
+    "cycleDuration_s": 43.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:03:20",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 129.8,
+    "cycleDuration_s": 43.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:03:32.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 133.8,
+    "cycleDuration_s": 42.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:03:45",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 146.5,
+    "cycleDuration_s": 49.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:03:57.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.1,
+    "cycleDuration_s": 46.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:04:10",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 143.7,
+    "cycleDuration_s": 44.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:04:22.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 143.8,
+    "cycleDuration_s": 43.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:04:35",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.8,
+    "cycleDuration_s": 49.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:04:47.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 148.0,
+    "cycleDuration_s": 45.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:05:00",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 137.0,
+    "cycleDuration_s": 47.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:05:12.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 139.3,
+    "cycleDuration_s": 46.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:05:25",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 142.8,
+    "cycleDuration_s": 44.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:05:37.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.4,
+    "cycleDuration_s": 45.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:05:50",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 139.6,
+    "cycleDuration_s": 46.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:06:02.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 142.1,
+    "cycleDuration_s": 45.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:06:15",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.7,
+    "cycleDuration_s": 45.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:06:27.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 142.9,
+    "cycleDuration_s": 42.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:06:40",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.8,
+    "cycleDuration_s": 46.8,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:06:52.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 134.1,
+    "cycleDuration_s": 44.8,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:07:05",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 143.4,
+    "cycleDuration_s": 50.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:07:17.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 143.6,
+    "cycleDuration_s": 48.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:07:30",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 144.4,
+    "cycleDuration_s": 45.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:07:42.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.5,
+    "cycleDuration_s": 46.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:07:55",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 132.6,
+    "cycleDuration_s": 45.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:08:07.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 135.3,
+    "cycleDuration_s": 45.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:08:20",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.7,
+    "cycleDuration_s": 40.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:08:32.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 145.4,
+    "cycleDuration_s": 46.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:08:45",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.6,
+    "cycleDuration_s": 46.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:08:57.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 134.8,
+    "cycleDuration_s": 44.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:09:10",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 137.5,
+    "cycleDuration_s": 44.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:09:22.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.4,
+    "cycleDuration_s": 42.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:09:35",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 143.9,
+    "cycleDuration_s": 45.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:09:47.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 145.3,
+    "cycleDuration_s": 46.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:10:00",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 139.4,
+    "cycleDuration_s": 46.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:10:12.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 142.9,
+    "cycleDuration_s": 43.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:10:25",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 142.1,
+    "cycleDuration_s": 45.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:10:37.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 142.0,
+    "cycleDuration_s": 42.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:10:50",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 139.7,
+    "cycleDuration_s": 44.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:11:02.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 142.5,
+    "cycleDuration_s": 46.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:11:15",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.2,
+    "cycleDuration_s": 47.1,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:11:27.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.9,
+    "cycleDuration_s": 46.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:11:40",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 137.0,
+    "cycleDuration_s": 44.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:11:52.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 135.1,
+    "cycleDuration_s": 47.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:12:05",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.1,
+    "cycleDuration_s": 46.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:12:17.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 147.0,
+    "cycleDuration_s": 46.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:12:30",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 135.1,
+    "cycleDuration_s": 42.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:12:42.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 146.7,
+    "cycleDuration_s": 44.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:12:55",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.6,
+    "cycleDuration_s": 41.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:13:07.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.5,
+    "cycleDuration_s": 46.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:13:20",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.2,
+    "cycleDuration_s": 43.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:13:32.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.5,
+    "cycleDuration_s": 44.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:13:45",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 139.8,
+    "cycleDuration_s": 44.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:13:57.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 148.3,
+    "cycleDuration_s": 43.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:14:10",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 132.5,
+    "cycleDuration_s": 45.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:14:22.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.4,
+    "cycleDuration_s": 44.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:14:35",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 143.8,
+    "cycleDuration_s": 47.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:14:47.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 144.0,
+    "cycleDuration_s": 44.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:15:00",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 142.8,
+    "cycleDuration_s": 45.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:15:12.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 144.3,
+    "cycleDuration_s": 44.3,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:15:25",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 145.3,
+    "cycleDuration_s": 46.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:15:37.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 130.3,
+    "cycleDuration_s": 44.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:15:50",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 145.5,
+    "cycleDuration_s": 47.1,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:16:02.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 147.0,
+    "cycleDuration_s": 46.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:16:15",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 139.2,
+    "cycleDuration_s": 43.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:16:27.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 146.5,
+    "cycleDuration_s": 43.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:16:40",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 131.8,
+    "cycleDuration_s": 43.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:16:52.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 135.4,
+    "cycleDuration_s": 46.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:17:05",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 134.8,
+    "cycleDuration_s": 43.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:17:17.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 143.7,
+    "cycleDuration_s": 41.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:17:30",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.3,
+    "cycleDuration_s": 45.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:17:42.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 148.5,
+    "cycleDuration_s": 43.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:17:55",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 143.9,
+    "cycleDuration_s": 42.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:18:07.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 145.9,
+    "cycleDuration_s": 47.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:18:20",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 143.0,
+    "cycleDuration_s": 44.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:18:32.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 139.1,
+    "cycleDuration_s": 44.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:18:45",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.5,
+    "cycleDuration_s": 41.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:18:57.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 131.7,
+    "cycleDuration_s": 46.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:19:10",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 139.4,
+    "cycleDuration_s": 42.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:19:22.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.5,
+    "cycleDuration_s": 45.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:19:35",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 139.6,
+    "cycleDuration_s": 47.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:19:47.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.5,
+    "cycleDuration_s": 43.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:20:00",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 133.5,
+    "cycleDuration_s": 45.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:20:12.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 135.3,
+    "cycleDuration_s": 46.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:20:25",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 133.6,
+    "cycleDuration_s": 47.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:20:37.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 142.5,
+    "cycleDuration_s": 45.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:20:50",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.8,
+    "cycleDuration_s": 45.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:21:02.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 149.4,
+    "cycleDuration_s": 44.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:21:15",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 146.4,
+    "cycleDuration_s": 44.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:21:27.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.3,
+    "cycleDuration_s": 43.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:21:40",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 133.1,
+    "cycleDuration_s": 46.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:21:52.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 133.8,
+    "cycleDuration_s": 46.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:22:05",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 131.3,
+    "cycleDuration_s": 43.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:22:17.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 135.1,
+    "cycleDuration_s": 45.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:22:30",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.4,
+    "cycleDuration_s": 43.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:22:42.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 133.2,
+    "cycleDuration_s": 47.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:22:55",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.0,
+    "cycleDuration_s": 43.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:23:07.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 137.2,
+    "cycleDuration_s": 48.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:23:20",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 139.4,
+    "cycleDuration_s": 46.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:23:32.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 131.2,
+    "cycleDuration_s": 45.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:23:45",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 151.4,
+    "cycleDuration_s": 43.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:23:57.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 132.4,
+    "cycleDuration_s": 43.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:24:10",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 137.0,
+    "cycleDuration_s": 42.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:24:22.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 143.8,
+    "cycleDuration_s": 43.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:24:35",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 142.8,
+    "cycleDuration_s": 45.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:24:47.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.8,
+    "cycleDuration_s": 39.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:25:00",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 144.4,
+    "cycleDuration_s": 40.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:25:12.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 150.3,
+    "cycleDuration_s": 47.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:25:25",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 137.5,
+    "cycleDuration_s": 43.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:25:37.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 144.9,
+    "cycleDuration_s": 45.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:25:50",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 142.5,
+    "cycleDuration_s": 46.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:26:02.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 147.4,
+    "cycleDuration_s": 44.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:26:15",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.7,
+    "cycleDuration_s": 46.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:26:27.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 142.8,
+    "cycleDuration_s": 42.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:26:40",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 145.5,
+    "cycleDuration_s": 45.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:26:52.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 134.3,
+    "cycleDuration_s": 44.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:27:05",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.7,
+    "cycleDuration_s": 43.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:27:17.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.5,
+    "cycleDuration_s": 43.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:27:30",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.4,
+    "cycleDuration_s": 45.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:27:42.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 127.7,
+    "cycleDuration_s": 46.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:27:55",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 144.2,
+    "cycleDuration_s": 43.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:28:07.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 137.8,
+    "cycleDuration_s": 43.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:28:20",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.7,
+    "cycleDuration_s": 47.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:28:32.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 143.6,
+    "cycleDuration_s": 48.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:28:45",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.4,
+    "cycleDuration_s": 44.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:28:57.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 130.5,
+    "cycleDuration_s": 44.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:29:10",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.5,
+    "cycleDuration_s": 42.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:29:22.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.2,
+    "cycleDuration_s": 44.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:29:35",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.9,
+    "cycleDuration_s": 44.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:29:47.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 144.2,
+    "cycleDuration_s": 44.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:30:00",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.2,
+    "cycleDuration_s": 45.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:30:12.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 137.8,
+    "cycleDuration_s": 43.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:30:25",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 135.9,
+    "cycleDuration_s": 41.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:30:37.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 134.7,
+    "cycleDuration_s": 41.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:30:50",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 145.1,
+    "cycleDuration_s": 47.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:31:02.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 143.7,
+    "cycleDuration_s": 48.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:31:15",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.7,
+    "cycleDuration_s": 42.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:31:27.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 145.0,
+    "cycleDuration_s": 44.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:31:40",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.9,
+    "cycleDuration_s": 44.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:31:52.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 139.1,
+    "cycleDuration_s": 45.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:32:05",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 134.3,
+    "cycleDuration_s": 45.6,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:32:17.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 137.6,
+    "cycleDuration_s": 47.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:32:30",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 132.8,
+    "cycleDuration_s": 42.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:32:42.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 135.5,
+    "cycleDuration_s": 45.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:32:55",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 142.8,
+    "cycleDuration_s": 45.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:33:07.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 145.5,
+    "cycleDuration_s": 44.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:33:20",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 145.5,
+    "cycleDuration_s": 43.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:33:32.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 145.2,
+    "cycleDuration_s": 44.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:33:45",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.2,
+    "cycleDuration_s": 41.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:33:57.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 145.0,
+    "cycleDuration_s": 46.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:34:10",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 148.7,
+    "cycleDuration_s": 44.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:34:22.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.5,
+    "cycleDuration_s": 45.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:34:35",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.0,
+    "cycleDuration_s": 44.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:34:47.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 137.1,
+    "cycleDuration_s": 48.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:35:00",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.2,
+    "cycleDuration_s": 44.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:35:12.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.9,
+    "cycleDuration_s": 48.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:35:25",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 135.6,
+    "cycleDuration_s": 44.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:35:37.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 147.6,
+    "cycleDuration_s": 48.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:35:50",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 142.8,
+    "cycleDuration_s": 45.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:36:02.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 139.8,
+    "cycleDuration_s": 46.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:36:15",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 142.0,
+    "cycleDuration_s": 45.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:36:27.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 137.9,
+    "cycleDuration_s": 46.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:36:40",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 146.1,
+    "cycleDuration_s": 44.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:36:52.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.0,
+    "cycleDuration_s": 44.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:37:05",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.2,
+    "cycleDuration_s": 44.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:37:17.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 143.2,
+    "cycleDuration_s": 42.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:37:30",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 147.0,
+    "cycleDuration_s": 48.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:37:42.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.7,
+    "cycleDuration_s": 43.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:37:55",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 130.3,
+    "cycleDuration_s": 42.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:38:07.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 135.2,
+    "cycleDuration_s": 42.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:38:20",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.9,
+    "cycleDuration_s": 44.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:38:32.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.3,
+    "cycleDuration_s": 44.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:38:45",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.2,
+    "cycleDuration_s": 46.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:38:57.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 137.9,
+    "cycleDuration_s": 45.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:39:10",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.1,
+    "cycleDuration_s": 44.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:39:22.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 135.3,
+    "cycleDuration_s": 47.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:39:35",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 146.8,
+    "cycleDuration_s": 48.1,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:39:47.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 134.8,
+    "cycleDuration_s": 41.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:40:00",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 143.2,
+    "cycleDuration_s": 43.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:40:12.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 139.8,
+    "cycleDuration_s": 39.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:40:25",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 139.7,
+    "cycleDuration_s": 44.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:40:37.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.9,
+    "cycleDuration_s": 47.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:40:50",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 137.5,
+    "cycleDuration_s": 46.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:41:02.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 137.1,
+    "cycleDuration_s": 40.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:41:15",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 146.3,
+    "cycleDuration_s": 50.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:41:27.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 139.7,
+    "cycleDuration_s": 47.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:41:40",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 144.8,
+    "cycleDuration_s": 46.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:41:52.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.6,
+    "cycleDuration_s": 41.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:42:05",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 145.9,
+    "cycleDuration_s": 45.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:42:17.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 143.2,
+    "cycleDuration_s": 46.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:42:30",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.2,
+    "cycleDuration_s": 46.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:42:42.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 137.6,
+    "cycleDuration_s": 46.3,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:42:55",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.8,
+    "cycleDuration_s": 46.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:43:07.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 142.9,
+    "cycleDuration_s": 45.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:43:20",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 143.7,
+    "cycleDuration_s": 45.9,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:43:32.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 134.8,
+    "cycleDuration_s": 45.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:43:45",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 133.1,
+    "cycleDuration_s": 43.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:43:57.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 134.5,
+    "cycleDuration_s": 42.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:44:10",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 131.6,
+    "cycleDuration_s": 44.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:44:22.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.3,
+    "cycleDuration_s": 46.5,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:44:35",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 135.7,
+    "cycleDuration_s": 44.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:44:47.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 137.5,
+    "cycleDuration_s": 48.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:45:00",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.2,
+    "cycleDuration_s": 44.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:45:12.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.4,
+    "cycleDuration_s": 45.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:45:25",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 132.1,
+    "cycleDuration_s": 44.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:45:37.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 145.4,
+    "cycleDuration_s": 45.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:45:50",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 144.2,
+    "cycleDuration_s": 47.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:46:02.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 126.1,
+    "cycleDuration_s": 48.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:46:15",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 155.9,
+    "cycleDuration_s": 45.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:46:27.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 132.1,
+    "cycleDuration_s": 46.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:46:40",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 145.8,
+    "cycleDuration_s": 45.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:46:52.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 134.3,
+    "cycleDuration_s": 46.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:47:05",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 147.0,
+    "cycleDuration_s": 43.0,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:47:17.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.4,
+    "cycleDuration_s": 47.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:47:30",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 134.6,
+    "cycleDuration_s": 46.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:47:42.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.7,
+    "cycleDuration_s": 45.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:47:55",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 146.0,
+    "cycleDuration_s": 45.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:48:07.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.9,
+    "cycleDuration_s": 45.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:48:20",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.9,
+    "cycleDuration_s": 44.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:48:32.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 132.3,
+    "cycleDuration_s": 51.7,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:48:45",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.2,
+    "cycleDuration_s": 44.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:48:57.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.1,
+    "cycleDuration_s": 47.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:49:10",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.3,
+    "cycleDuration_s": 45.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:49:22.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 135.1,
+    "cycleDuration_s": 41.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:49:35",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 139.8,
+    "cycleDuration_s": 45.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:49:47.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 151.6,
+    "cycleDuration_s": 43.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:50:00",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 145.3,
+    "cycleDuration_s": 44.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:50:12.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.0,
+    "cycleDuration_s": 43.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:50:25",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 137.8,
+    "cycleDuration_s": 45.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:50:37.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.2,
+    "cycleDuration_s": 44.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:50:50",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 146.4,
+    "cycleDuration_s": 47.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:51:02.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 145.3,
+    "cycleDuration_s": 43.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:51:15",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.7,
+    "cycleDuration_s": 48.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:51:27.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.7,
+    "cycleDuration_s": 43.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:51:40",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 145.4,
+    "cycleDuration_s": 45.7,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:51:52.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.3,
+    "cycleDuration_s": 45.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:52:05",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.5,
+    "cycleDuration_s": 43.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:52:17.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 130.8,
+    "cycleDuration_s": 45.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:52:30",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 139.7,
+    "cycleDuration_s": 45.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:52:42.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 137.3,
+    "cycleDuration_s": 45.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:52:55",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.6,
+    "cycleDuration_s": 42.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:53:07.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.9,
+    "cycleDuration_s": 42.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:53:20",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 147.9,
+    "cycleDuration_s": 46.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:53:32.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.5,
+    "cycleDuration_s": 46.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:53:45",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.3,
+    "cycleDuration_s": 42.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:53:57.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 143.9,
+    "cycleDuration_s": 46.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:54:10",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.8,
+    "cycleDuration_s": 45.9,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:54:22.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 139.9,
+    "cycleDuration_s": 43.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:54:35",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.9,
+    "cycleDuration_s": 41.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:54:47.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 143.5,
+    "cycleDuration_s": 44.8,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:55:00",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 149.4,
+    "cycleDuration_s": 46.0,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:55:12.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 134.3,
+    "cycleDuration_s": 44.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:55:25",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.0,
+    "cycleDuration_s": 43.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:55:37.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 130.0,
+    "cycleDuration_s": 43.9,
+    "alarmState": "RED"
+  },
+  {
+    "recordedAt": "2026-01-15T00:55:50",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 147.4,
+    "cycleDuration_s": 45.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:56:02.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.8,
+    "cycleDuration_s": 47.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:56:15",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 142.7,
+    "cycleDuration_s": 45.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:56:27.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.9,
+    "cycleDuration_s": 43.2,
+    "alarmState": "AMBER"
+  },
+  {
+    "recordedAt": "2026-01-15T00:56:40",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.5,
+    "cycleDuration_s": 42.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:56:52.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 129.0,
+    "cycleDuration_s": 44.2,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:57:05",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.7,
+    "cycleDuration_s": 45.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:57:17.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 141.1,
+    "cycleDuration_s": 45.6,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:57:30",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 136.1,
+    "cycleDuration_s": 44.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:57:42.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.2,
+    "cycleDuration_s": 43.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:57:55",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 147.1,
+    "cycleDuration_s": 44.4,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:58:07.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 131.7,
+    "cycleDuration_s": 46.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:58:20",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 142.6,
+    "cycleDuration_s": 47.0,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:58:32.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 134.1,
+    "cycleDuration_s": 42.5,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:58:45",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 146.1,
+    "cycleDuration_s": 42.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:58:57.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 135.0,
+    "cycleDuration_s": 44.1,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:59:10",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 129.4,
+    "cycleDuration_s": 42.9,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:59:22.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.8,
+    "cycleDuration_s": 42.8,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:59:35",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 140.0,
+    "cycleDuration_s": 44.3,
+    "alarmState": "GREEN"
+  },
+  {
+    "recordedAt": "2026-01-15T00:59:47.500000",
+    "equipmentCode": "IMM-003",
+    "hydPressure_bar": 138.7,
+    "cycleDuration_s": 42.3,
+    "alarmState": "GREEN"
+  }
+]

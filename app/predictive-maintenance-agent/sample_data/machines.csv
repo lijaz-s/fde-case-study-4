@@ -1,0 +1,14 @@
+machine_id,machine_type,vendor,plant,commissioned_year,telemetry_available,criticality,last_maintenance_date
+CNC-001,CNC,FANUC,Plant A,2018,True,high,2026-03-10
+CNC-002,CNC,FANUC,Plant A,2019,True,high,2026-02-28
+CNC-004,CNC,Haas,Plant A,2015,True,high,2026-03-14
+CNC-007,CNC,Haas,Plant A,2017,True,medium,2026-01-20
+CNC-009,CNC,FANUC,Plant B,2016,True,high,2026-03-05
+CNC-012,CNC,Makino,Plant B,2014,False,medium,2025-09-15
+IMM-001,Injection Moulding,Engel,Plant A,2019,True,medium,2026-02-15
+IMM-002,Injection Moulding,Engel,Plant A,2018,True,high,2026-03-08
+IMM-003,Injection Moulding,Krauss Maffei,Plant B,2017,True,medium,2026-03-01
+IMM-005,Injection Moulding,Krauss Maffei,Plant B,2015,False,low,2025-08-20
+ASM-001,Assembly,ABB,Plant A,2020,True,medium,2026-03-12
+ASM-002,Assembly,KUKA,Plant B,2019,True,low,2026-02-10
+TST-001,Testing,Custom,Plant A,2021,True,low,2026-03-20
